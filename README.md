@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Sellvi**
 
-- 💬 Ask me about **react-naitve**
+- 💬 Ask me about **react-native**
 
 - 📫 How to reach me **pattnaikayush21@gmail.com**
 

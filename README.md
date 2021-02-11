@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpattnaik&show_icons=true&locale=en&layout=compact" alt="ayushpattnaik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpattnaik&show_icons=true" alt="ayushpattnaik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpattnaik&show_icons=true" alt="ayushpattnaik" /></p>

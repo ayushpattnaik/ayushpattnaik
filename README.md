@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Docker and MERN**
 
-- 👨‍💻 All of my projects are available at [ayushpattnaik.github.io](ayushpattnaik.github.io)
+- 👨‍💻 All of my projects are available at [ayushpattnaik.github.io](https://ayushpattnaik.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

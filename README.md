@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ayushpattnaik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ayushpattnaik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-pattnaik-b14664113/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ayush-pattnaik-b14664113/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayush21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ayush21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-pattnaik-b14664113/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ayush-pattnaik-b14664113/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ayushpattnaik4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ayush21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

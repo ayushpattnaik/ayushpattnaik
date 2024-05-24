@@ -4,11 +4,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpattnaik&" alt="ayushpattnaik" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpattnaik&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpattnaik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpattnaik&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpattnaik" /> </p
 
-- 🔭 I’m currently working on **Sangeet**
-
-- 🌱 I’m currently learning **Docker and MERN**
+- 🌱 I’m currently learning **SAP**
 
 - 👨‍💻 All of my projects are available at [ayushpattnaik.github.io](https://ayushpattnaik.github.io/)
 
